@@ -1,0 +1,18 @@
+{
+  "id": "18bd9835-996d-4c8d-8420-12d5da4d7ad9",
+  "name": "koikaze",
+  "result": {
+    "bpm": "118",
+    "key": "E major",
+    "chords": "chords.json",
+    "beat map": "beat map.json",
+    "metadata": "metadata.json",
+    "sections": "sections.json",
+    "inst audio": "inst audio.wav",
+    "vocal pitch": "vocal pitch.json",
+    "lyr_alignment": "lyr_alignment.json",
+    "lead vocal audio": "lead vocal audio.wav",
+    "syllable_alignment": "syllable_alignment.json",
+    "backing vocal audio": "backing vocal audio.wav"
+  }
+}
